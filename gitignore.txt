@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Ambiente virtual
+env/
+venv/
+.venv/
+
+# Logs e arquivos de saída
+*.log
+*.csv
+*.xlsx
+logs/
+outputs/
+
+# Arquivos ocultos com configs locais
+.env
+.env.*
+
+# Configs locais
+.vscode/
+.ipynb_checkpoints/
+
+# Compactados
+*.zip
